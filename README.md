@@ -27,6 +27,14 @@ This commands includes
 <BR>
 
 ## Output
+## TRACERT : 
+![Screenshot (11)](https://github.com/user-attachments/assets/5850931b-34c9-456e-a5c3-ab2e024f04f5)
+## PING : 
+![Screenshot (10)](https://github.com/user-attachments/assets/6c004272-0425-4c7d-9dea-f2987f941ea5)
+## IPCONFIG : 
+![Screenshot (9)](https://github.com/user-attachments/assets/de80ad65-3b6e-4be9-b8df-c274ba688360)
+## NETSTAT : 
+![Screenshot (8)](https://github.com/user-attachments/assets/0f279fad-e9c2-4ef4-99b4-c8203e4d23ae)
 
 ## Result
 Thus Execution of Network commands Performed 
